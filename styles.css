@@ -54,8 +54,8 @@ h1, h2, h3, h4, p {
 
 .gift-img {
     margin: 20px auto;
-    max-width: 550px;
-    height: 600px;
+    max-width: 650px;
+    height: 700px;
     border: 6px solid white;
     border-radius: 10px;
     background-image: url("gift-cover.jpg");
@@ -98,15 +98,3 @@ h1, h2, h3, h4, p {
 a {
     color: white;
 }
-
-/* 
-Add the footer paragraph according to the design. 
-Configure the anchor tag to open the link in a new tab.
-Forgotten how to do it? Google it! 
-
-Link: 
-https://scrimba.com/learn/htmlandcss
-
-Text:
-Want to create your own Birthday GIFt site? Take this HTML & CSS course.
-*/
